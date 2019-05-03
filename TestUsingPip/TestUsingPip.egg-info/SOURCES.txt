@@ -1,0 +1,8 @@
+README.md
+TestMod
+TestMod.py
+setup.py
+TestUsingPip.egg-info/PKG-INFO
+TestUsingPip.egg-info/SOURCES.txt
+TestUsingPip.egg-info/dependency_links.txt
+TestUsingPip.egg-info/top_level.txt

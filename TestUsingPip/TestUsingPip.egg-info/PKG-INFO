@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: TestUsingPip
+Version: 0.1
+Summary: A useless package
+Home-page: https://github.com/not this
+Author: Paul Day
+Author-email: pbday85@gmail.com
+License: UNKNOWN
+Description: I dont do much...
+        
+        ...But I did prove I can create a pip package...
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
